@@ -31,7 +31,7 @@ md id="gx7lp2"
 # 🚀 About Me
 
 <img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
+```ts
 const milkessa = {
   role: "Software Engineer",
   education: "Computer Science & Engineering",
@@ -43,11 +43,15 @@ const milkessa = {
     "UI/UX"
   ],
 };
-
+```
 ✨ Passionate about building scalable software and intuitive interfaces
-🧠 Member of **CSEC ASTU** — Competitive Programming & Data Science Division
-🚀 **Software Engineering Trainee @ A2SV**
-🏛️ **Frontend Developer Intern @ Ethiopia Capital Market Authority**
+
+🧠 Member of CSEC ASTU — Competitive Programming & Data Science Division
+
+🚀 Software Engineering Trainee @ A2SV
+
+🏛️ Frontend Developer Intern @ Ethiopia Capital Market Authority
+
 💡 Interested in clean architecture, performance, and modern web apps
 
 <br clear="right"/>
