@@ -32,7 +32,6 @@ md id="gx7lp2"
 
 <img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-```ts
 const milkessa = {
   role: "Software Engineer",
   education: "Computer Science & Engineering",
@@ -126,4 +125,3 @@ const milkessa = {
 <p align="center">
   <i>“Learning, building, and growing — one commit at a time.”</i>
 </p>
-```
