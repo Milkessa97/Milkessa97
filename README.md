@@ -62,22 +62,31 @@ const milkessa = {
 ### ⚡ Frameworks & Libraries
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,fastapi" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,fastapi,docker" />
 </p>
-
-### 🗄️ Database & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,git,github,postman,vscode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="48" height="48" alt="SQLAlchemy" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" width="48" height="48" alt="pytest" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/alembic.svg"
+     width="48"
+     height="48"
+     alt="Alembic" />
 </p>
 
----
+### 🧪 DevOps & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,postgres,postman,vscode" />
+</p>
 
 ## 🌱 Currently Exploring
 
 <p align="center">
 
-💻 Full Stack Engineering •
+💻 AI Automation •
 ⚙️ System Design Fundamentals •
 🧩 Data Structures & Algorithms •
 🎨 Better Frontend Performance & UI/UX
