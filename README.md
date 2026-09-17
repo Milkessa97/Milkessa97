@@ -1,16 +1,15 @@
-
 <!-- TOP BANNER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Milkessa%20Habtamu&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20A2SV%20SWE%20Trainee&descAlignY=58" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Milkessa%20Habtamu&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Full%20Stack%20Developer&descAlignY=58" width="100%" />
 </p>
 
 <h3 align="center">
-  Building software, solving problems, and crafting clean user experiences.
+  Building software, leading a community, and shaping products end-to-end.
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;A2SV+Software+Engineering+Trainee;AI+Automation+Learner;Competitive+Programming+Enthusiast;Passionate+about+Clean+UI%2FUX" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=Junior+Full+Stack+Developer;A2SV+Software+Engineering+Trainee;Product+%26+Project+Management+Enthusiast" />
 </p>
 
 ---
@@ -24,30 +23,36 @@
 />
 ````md
 const milkessa = {
-  role: "Software Engineer",
-  education: "Computer Science & Engineering",
-  trainee: "A2SV Software Engineering Trainee",
+  role: "Junior Full Stack Developer",
+  employer: "Adama Science and Technology University (ASTU)",
+  leadership: ["President @ CSEC ASTU", "Head @ AGT Hub"],
+  background: ["React", "Next.js", "FastAPI", "PostgreSQL", "Go"],
   interests: [
     "Full Stack Development",
-    "Problem Solving",
-    "AI Automation",
+    "Product & Project Management",
     "Competitive Programming",
-    "Clean UI/UX"
+    "Clean UI/UX",
+    "System Design"
   ]
 };
 ````
 
-✨ Passionate about building scalable software and intuitive interfaces
+✨ Junior Full Stack Developer
 
-🧠 Member of **CSEC ASTU** — Competitive Programming & Data Science Division
+🚀 A2SV Software Engineering trainee — backend track in Go, plus a Product & Project Management track
 
-🚀 **Software Engineering Trainee @ A2SV**
+🏆 Competitive programmer with **Team Vortex** (2nd place, CSEC ASTU Semester Closing Contest)
 
-🏛️ **Frontend Developer Intern @ Ethiopia Capital Market Authority**
-
-💡 Interested in clean architecture, performance, and modern web applications
+💡 Currently building portfolio projects, with a growing pull toward product/project management
 
 <br clear="right"/>
+
+---
+
+## 🧩 What I'm Building
+
+- **Veltro** — an engineering team health dashboard that connects to GitHub, surfacing PR cycle times, reviewer bottlenecks, and AI-generated weekly digests (Next.js, FastAPI-style backend, Postgres, Gemini API)
+- **Afya** — a healthcare tracking and records-access platform built during my A2SV internship, where I served as Product & Project Manager for a 17-person team (Go, Next.js, Flutter)
 
 ---
 
@@ -56,13 +61,13 @@ const milkessa = {
 ### 💻 Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,java" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,java,go" />
 </p>
 
 ### ⚡ Frameworks & Libraries
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,fastapi,docker" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,fastapi,flutter,docker" />
 </p>
 
 <p align="center">
@@ -86,9 +91,9 @@ const milkessa = {
 
 <p align="center">
 
-💻 AI Automation •
+💻 Product & Project Management •
 ⚙️ System Design Fundamentals •
-🧩 Data Structures & Algorithms •
+🧩 Go & Clean Architecture •
 🎨 Better Frontend Performance & UI/UX
 
 </p>
@@ -117,7 +122,7 @@ const milkessa = {
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/milkessa97">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -132,6 +137,5 @@ const milkessa = {
 </p>
 
 <p align="center">
-  <i>Learning, building, and growing — one commit at a time 🚀</i>
+  <i>Learning, building, and leading — one commit at a time 🚀</i>
 </p>
-```
